@@ -13,5 +13,7 @@ function setup() {
 
 function draw() {
 
+	stroke(0,0,0);
+	ellipse(w/2,h/2,100,100);
 
 }
