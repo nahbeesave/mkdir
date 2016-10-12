@@ -15,5 +15,6 @@ function draw() {
 
 	stroke(0,0,0);
 	ellipse(w/2,h/2,100,100);
+	ellipse(w/2,h/2,10,100);
 
 }
